@@ -28,5 +28,4 @@
       <p> The Content Strategist defines the site’s voice and structure. They write and edit all headings, paragraphs, lists, link text, and alt‑text so that the student’s identity, interests, and values come through. They organize content into logical sections, draft the site outline (About Me, Skills, Projects), and ensure everything aligns with the target audience  </p>
       <li> QA & Documentation Specialist </li>
       <p>   The QA Specialist tests every page on multiple devices and browsers, checks for broken links, validates HTML/CSS against standards, and audits accessibility (keyboard navigation, alt text, color contrast). They log all issues in GitHub as “Issues,” verify fixes, and maintain the process journal: commit summaries, decision logs, and peer‑feedback notes </p>
-</body>
-</html>
+
